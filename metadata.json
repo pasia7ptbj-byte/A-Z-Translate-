@@ -1,0 +1,6 @@
+{
+  "name": "Mirror Language Translator",
+  "description": "An offline-capable mirror translator tool that converts text using a bi-directional alphabet and number inversion cipher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
